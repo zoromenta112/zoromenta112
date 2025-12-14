@@ -1,6 +1,4 @@
-<style>
- background-color
-</style>
+
 <h1>Hi there 👋, I'm Muhammad fody</h1>
 
 <h2>🚀 About Me</h2>
@@ -12,8 +10,7 @@
 - **Tools:** Git, Docker, AWS
 
  <h4>📊 GitHub Stats</h4>
-<detailes>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)/detailes>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=algolia)
 <h5>🌐 Connect with me</h5>
 - [LinkedIn](https://www.linkedin.com/in/mohamed-fody-0981a7395/)
 - [Portfolio](https://yourwebsite.com)
