@@ -1,3 +1,6 @@
+<style>
+ background-color
+</style>
 <h1>Hi there 👋, I'm Muhammad fody</h1>
 
 <h2>🚀 About Me</h2>
@@ -9,10 +12,10 @@
 - **Tools:** Git, Docker, AWS
 
  <h4>📊 GitHub Stats</h4>
-<detailes>[GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)</detailes>
+<detailes>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)/detailes>
 
 <h5>🌐 Connect with me</h5>
-- [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-fody-0981a7395/)
 - [Portfolio](https://yourwebsite.com)
 <h6>our developers team</h6>
 <ul>
@@ -21,3 +24,4 @@
  <li>mohamed mahamed</li>
  <li>median abed</li>
 </ul>
+
