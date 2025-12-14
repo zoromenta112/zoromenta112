@@ -10,7 +10,7 @@
 - **Tools:** Git, Docker, AWS
 
  <h4>📊 GitHub Stats</h4>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoromenta112&theme=algolia)
 <h5>🌐 Connect with me</h5>
 - [LinkedIn](https://www.linkedin.com/in/mohamed-fody-0981a7395/)
 - [Portfolio](https://yourwebsite.com)
