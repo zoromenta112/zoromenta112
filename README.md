@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad fody
 
-<!--
-**zoromenta112/zoromenta112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves exploring new technologies and building cool projects.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🌐 Connect with me
+- [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- [Portfolio](https://yourwebsite.com)
