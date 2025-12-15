@@ -1,4 +1,4 @@
-
+ <img align="right" alt="Coding" width="400" src="[(https://miro.medium.com/1*Y2W4-N-hAfNg-86-jgY0lg.jpeg)]">
 <h1>Hi there 👋, I'm Muhammad fody</h1>
 
 <h2>🚀 About Me</h2>
